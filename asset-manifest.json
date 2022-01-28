@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/online_program_compiler/static/css/main.dea38019.css",
+    "main.js": "/online_program_compiler/static/js/main.86e4bf13.js",
+    "static/js/27.a2aa383b.chunk.js": "/online_program_compiler/static/js/27.a2aa383b.chunk.js",
+    "index.html": "/online_program_compiler/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.dea38019.css",
+    "static/js/main.86e4bf13.js"
+  ]
+}
